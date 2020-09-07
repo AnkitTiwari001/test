@@ -1,7 +1,1 @@
-{ "users": [
-	{ "firstname": "Ray",
-		"lastname": "Villalobos",
-		"username": "th3alch3mist",
-		"password": "test1234",
-    }
-]}
+{"speakers": [{"username": "th3alch3mist", "password": "hello1234", "firstname": "Ray", "title": "Bootstrap \u0026 CSS Preprocessors", "lastname": "Villalobos", "image": "http://barcampdeland.org/images/speaker_rayvillalobos.jpg", "link": "http://iviewsource.com"}]}
